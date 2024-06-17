@@ -30,7 +30,7 @@ def cleaning(text):
     return text
 
 load_dotenv(".env")
-client = Groq(api_key=os.getenv("GROG_API_KEY"), timeout=3600)
+client = Groq(api_key=os.getenv("GROQ_API_KEY"), timeout=3600)
 def translate(text_list):
     translated_text = ""
     success = False
