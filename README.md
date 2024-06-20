@@ -65,21 +65,21 @@ The model achieved an accuracy score of 78.24%.
 The Streamlit web app consists of 4 pages: Beranda (Home), Prediksi Data (Data Prediction), Prediksi Komentar (Comment Prediction), and Dataset, each offering unique features.
 
 ### Beranda (Home)
-![Beranda](./Videos/1.png)
+<img alt="Beranda (Home) Page" src="https://github.com/darren7753/sentiment_analysis_of_instagram_comments/assets/101574668/8a287d45-0100-4e02-a8a6-44c149e724ed">
 
 This page serves as an introduction. It provides an overview of the web app on the left side and displays a pie chart of sentiment distribution in the dataset on the right side.
 
 ### Prediksi Data (Data Prediction)
-![Prediksi Data](./Videos/2.mp4)
+https://github.com/darren7753/sentiment_analysis_of_instagram_comments/assets/101574668/775234c4-f1d5-41e9-90c3-3afe69c32717
 
 This page allows users to upload a new dataset. The trained model will then predict the sentiments of the uploaded data.
 
 ### Prediksi Komentar (Comment Prediction)
-![Prediksi Komentar](./Videos/3.mp4)
+https://github.com/darren7753/sentiment_analysis_of_instagram_comments/assets/101574668/c40261ca-59cc-46b8-bd2f-3564f0f74cec
 
 This page allows users to type in text. The trained model will predict the sentiment of the entered text.
 
 ### Dataset
-![Dataset](./Videos/4.mp4)
+https://github.com/darren7753/sentiment_analysis_of_instagram_comments/assets/101574668/0ca48fad-cb7d-469c-a1a9-879ff66a59ad
 
 This page allows users to upload a new training dataset. Once uploaded, the model will automatically retrain on the updated dataset and the model will be updated accordingly.
